@@ -1,0 +1,4 @@
+org\osial\osialcps\cps\CPSCommand.class
+org\osial\osialcps\hooks\CPSPlaceholderAPI.class
+org\osial\osialcps\OsialCPS.class
+org\osial\osialcps\cps\CPSManager.class

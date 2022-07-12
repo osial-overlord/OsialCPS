@@ -1,0 +1,10 @@
+name: OsialCPS
+version: '1.0.0'
+main: org.osial.osialcps.OsialCPS
+api-version: 1.13
+softdepend: [ PlaceholderAPI ]
+authors: [ Osial ]
+description: A plugin for measuring a player's CPS.
+commands:
+  cps:
+    description: Measures a players CPS.
